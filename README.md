@@ -4,8 +4,8 @@
 
 Make sure you have yarn or npm.
 
-Create .env file with the following variables:
-* `NEXT_PUBLIC_BASE_API_URL`: Modul 1 URL
+Create .env.local file with the following variables:
+* `NEXT_PUBLIC_API_BASE_URL`: Modul 1 URL
 * `NEXT_PUBLIC_API_KEY`: Modul 1 API key
 
 ```bash
