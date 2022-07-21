@@ -2,6 +2,8 @@
 
 ## How to generate the static webpage
 
+Make sure you have yarn or npm.
+
 Create .env file with the following variables:
 * `NEXT_PUBLIC_BASE_API_URL`: Modul 1 URL
 * `NEXT_PUBLIC_API_KEY`: Modul 1 API key
@@ -11,11 +13,13 @@ npm install
 # or
 yarn install
 
+
 ```bash
 npm run build
 # or
 yarn build
 ```
+
 
 ```bash
 npm run export
