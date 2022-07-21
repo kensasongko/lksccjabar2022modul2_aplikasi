@@ -12,6 +12,7 @@ Create .env file with the following variables:
 npm install
 # or
 yarn install
+```
 
 
 ```bash
